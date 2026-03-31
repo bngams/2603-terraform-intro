@@ -1,0 +1,3 @@
+# Ansible sensitive files
+inventory.yaml
+host_vars/wp_ec2_1.yaml
